@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">List Movie Recycler View</string>
+    <string-array name="list_movie_names">
+        <item>Thor: Ragnarok (2017)</item>
+        <item>Wonder Woman (2017)</item>
+        <item>Guardians of the Galaxy Vol. 2 (2017)</item>
+        <item>Logan (2017)</item>
+        <item>Despicable Me 3</item>
+        <item>Pirates of the Carribbean: Dead Men Tell No Tales (2017)</item>
+        <item>Justice League (2017)</item>
+        <item>Star Wars: The Last Jedi (2017)</item>
+        <item>Kong: Skull Island (2017)</item>
+        <item>War for the Planet of the Apes (2017)</item>
+    </string-array>
+    <string-array name="list_movie_sinopsis">
+        <item>
+            Dipenjara, Thor yang hebat menemukan dirinya dalam sebuah kontes gladiator yang mematikan melawan Hulk, mantan sekutunya.
+            Thor harus berjuang untuk bertahan hidup dan berpacu melawan waktu untuk mencegah Hela yang sangat kuat menghancurkan rumah dan peradaban Asgardian.
+        </item>
+        <item>
+            Putri Diana dari suku Amazon menyelamatkan pilot terdampar bernama Steve. Bersama sang pilot, Diana memulai petualangannya untuk menghentikan Ares yang ingin menghancurkan kehidupan umat manusia.
+            Hasil gambar untuk sinopsis wonder woman 2017
+        </item>
+        <item>
+            Skuad Guardian disewa oleh Sovereign, ras alien, untuk mendapatkan kembali baterai mereka - tapi Rocket mencurinya.
+            Kini, mereka harus segera beraksi untuk menyelamatkan galaxy sebelum terlambat.
+        </item>
+        <item>
+            Wolverine yang mulai menua, kini hidup mengasingkan diri karena harus merawat Profesor X.
+            Namun, kehadiran sesosok mutan gadis cilik yang diburu oleh para musuh tiba-tiba menjungkirbalikkan segalanya.
+        </item>
+        <item>
+            Gru memutuskan untuk bertemu dengan saudara kembarnya yang sudah lama hilang.
+            Selain lebih menawan, ceria, dan lebih sukses, dia ingin bekerjasama dengan Gru dalam satu aksi pencurian terakhir.
+        </item>
+        <item>
+            Untuk mematahkan kutukan Flying Dutchman, Jack Sparrow dan Henry Turner mulai mencari tombak Trident of Poseidon.
+            Keduanya juga berusaha menghentikan Kapten Salazar yang ingin untuk menguasai lautan.
+        </item>
+        <item>
+            Dipicu oleh kepercayaannya terhadap kemanusiaan dan terinspirasi oleh tindakan tanpa pamrih Superman (Henry Cavill), Bruce Wayne (Ben Affleck) mengumpulkan sekutu baru Diana Prince untuk menghadapi ancaman yang lebih besar lagi.
+            Bersama-sama, Batman dan Wonder Woman bekerja sama untuk merekrut tim untuk melawan musuh yang baru dibangun ini.
+            Meskipun terbentuknya liga pahlawan yang belum pernah terjadi sebelumnya - Batman, Wonder Woman, Aquaman, Cyborg dan Flash - mungkin sudah terlambat untuk menyelamatkan planet ini dari serangan dengan proporsi bencana.
+        </item>
+        <item>
+            Rey (Daisy Ridley) akhirnya berhasil menemukan ksatria legendaris Jedi, Luke Skywalker (Mark Hamill) di sebuah pulau dengan aura magis.
+            Para pahlawan dari The Force Awakens diantaranya Leia, Finn dan Poe bergabung dengan sang legenda dalam sebuah petualangan epik, yang membuka misteri kuno The Force dimasa lalu yang mengejutkan.
+        </item>
+        <item>
+            Sebuah tim ilmuwan menjelajahi pulau yang belum dipetakan di Pasifik, dan tak sengaja memasuki wilayah sesosok kera raksasa.
+            Kini, mereka harus berjuang untuk melarikan diri dari kejaran para monster.
+        </item>
+        <item>
+            Ketika tentara manusia jahat membunuh istri dan anak Caisar, ia bertekad untuk membalas dendam.
+            Tetapi seiring waktu, perlahan mulai terungkap sisi lain nalurinya yang lebih gelap dan berbahaya.
+        </item>
+    </string-array>
+    <integer-array name="list_movie_images">
+        <item>@drawable/thor_ragnarok</item>
+        <item>@drawable/wonder_woman</item>
+        <item>@drawable/guardian_of_galaxy</item>
+        <item>@drawable/logan</item>
+        <item>@drawable/desplicable_me</item>
+        <item>@drawable/pirates_of_the_caribbean</item>
+        <item>@drawable/justice_league</item>
+        <item>@drawable/star_wars</item>
+        <item>@drawable/kong_island</item>
+        <item>@drawable/war_for_the_apes</item>
+    </integer-array>
+</resources>
